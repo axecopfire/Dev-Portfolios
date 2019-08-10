@@ -45,4 +45,4 @@ Calls to action. These portfolios are asking for further engagement with brand (
 ### Demotivational Lists
 - [10 Portfolios: Code Burst](https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154)
 - [15 Portfolios: FCC](https://www.freecodecamp.org/news/15-web-developer-portfolios-to-inspire-you-137fb1743cae/)
-- [24 Portfolios: MockPlus](https://www.mockplus.com/blog/post/web-developer-portfolio(
+- [24 Portfolios: MockPlus](https://www.mockplus.com/blog/post/web-developer-portfolio)
