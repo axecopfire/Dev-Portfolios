@@ -8,6 +8,8 @@ Strinking features that are cool to look at.
 - [Gullaume Chau](https://guillaume-chau.info/)
 - [Marco Dell'Olio](http://marcodellolio.netlify.com/)
 - [Susan Lin](https://bysusanlin.com/)
+- [Jen Simmons](https://jensimmons.com/)
+- [Rachel Nabors](http://rachelnabors.com/)
 
 ### Minimalist
 Tends to not have many features on home page. May have a blog, possibly an about section. Mostly links to other pages for content.
@@ -20,6 +22,7 @@ Tends to not have many features on home page. May have a blog, possibly an about
 - [Evan You](https://evanyou.me/)
 - [Adrianna Valdivia](https://adrianna.dev/)
 - [Mike Harrington](https://mhartington.io/)
+- [Jonathan Snooks](https://snook.ca/)
 
 ### Story Forward
 Tells a compelling story. Less about the work more about experiences.
