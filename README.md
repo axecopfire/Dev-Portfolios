@@ -10,6 +10,7 @@ Strinking features that are cool to look at.
 - [Susan Lin](https://bysusanlin.com/)
 - [Jen Simmons](https://jensimmons.com/)
 - [Rachel Nabors](http://rachelnabors.com/)
+- [Alice Lee](https://www.byalicelee.com/)
 
 ### Minimalist
 Tends to not have many features on home page. May have a blog, possibly an about section. Mostly links to other pages for content.
