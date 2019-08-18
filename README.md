@@ -25,12 +25,9 @@ Tends to not have many features on home page. May have a blog, possibly an about
 - [Mike Harrington](https://mhartington.io/)
 - [Jonathan Snooks](https://snook.ca/)
 
-### Story Forward
-Tells a compelling story. Less about the work more about experiences.
-- [Jerome Hardaway](http://jerome.codes/)
-
 ### CTA (Branded/Projects/Updating Content/Talks)
 Calls to action. These portfolios are asking for further engagement with brand (listen to a podcast, join a membership, use a project).
+- [Jerome Hardaway](http://jerome.codes/)
 - [Scott Hanselman](https://www.hanselman.com/)
 - [Chris Coyier](https://chriscoyier.net/)
 - [Ken Wheeler](https://kenwheeler.github.io/)
